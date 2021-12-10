@@ -1,0 +1,40 @@
+{
+  "total": [
+    {
+      "id": 2,
+      "name": "coucou les amis",
+      "montant": 520
+    },
+    {
+      "name": "autre texte",
+      "montant": 320,
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "name": "Beljattou",
+      "montant": null,
+      "id": 6
+    },
+    {
+      "name": "Beljattou",
+      "montant": {},
+      "id": 7
+    },
+    {
+      "name": "Beljattou",
+      "montant": "520",
+      "id": 8
+    },
+    {
+      "name": "Beljattou",
+      "montant": "-654",
+      "id": 9
+    }
+  ]
+}
